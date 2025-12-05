@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishan Karki and I'm a aspiring MERN Stack Developer from Kathmandu Nepal.</h2>
+<h2 align="left">Hi 👋! My name is Ishan Karki and I'm a aspiring QA from Kathmandu Nepal.</h2>
 
 ###
 
